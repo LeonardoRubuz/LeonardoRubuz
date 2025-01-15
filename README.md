@@ -4,7 +4,7 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=LeonardoRubuz)](https://git.io/streak-stats) -->
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=LeonardoRubuz&theme=dark" alt="GitHub Streak" />
+    <img width="600" src="https://github-readme-streak-stats-eight.vercel.app/?user=LeonardoRubuz&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 
